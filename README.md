@@ -1,5 +1,5 @@
 
-# Date:15.09.23
+# Date:05-10-2024 
 # EXP 2: Fitting Poisson  distribution
 #Name:nikhil
 #reg_no:24900366
