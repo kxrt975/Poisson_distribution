@@ -1,8 +1,8 @@
 
 # Date:05-10-2024 
 # EXP 2: Fitting Poisson  distribution
-#Name:nikhil
-#reg_no:24900366
+# Name:Nikhil  
+# reg_no:24900366 
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
