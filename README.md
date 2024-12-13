@@ -1,6 +1,6 @@
-
 # Date:05-10-2024 
 # EXP 2: Fitting Poisson  distribution
+
 # Name:Nikhil  
 # reg_no:24900366 
 # Aim : 
