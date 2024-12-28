@@ -1,8 +1,8 @@
 # Date:05-10-2024 
 # EXP 2: Fitting Poisson  distribution
 
-# Name:Nikhil  
-# reg_no:24900366 
+# Name: R.Karthik padmanaban
+# reg_no: 212224110029
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -34,6 +34,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
+devoloped by: R.Karthik padmanaban
+reg no: 212224110029
+
 import numpy as np
 import math
 import scipy.stats
